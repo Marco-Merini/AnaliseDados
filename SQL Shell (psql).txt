@@ -1,0 +1,5 @@
+Server [localhost]: ENTER
+Database [postgres]: vendas
+Port [5432]:
+Username [postgres]:
+Senha para o usuário postgres: 123456
