@@ -1,501 +1,501 @@
 id_venda,data_venda,id_produto,categoria,regiao,quantidade,valor_unitario,valor_total,canal
-1,2024-02-17,161,Brinquedos,Sul,18,41.74,751.32,Telefone
-2,2024-02-10,163,Eletrônicos,Sul,9,273.93,2465.37,Online
-3,2024-02-24,155,Brinquedos,Sul,20,98.65,1973.0,Online
-4,2024-03-08,191,Eletrônicos,Sul,7,255.53,1788.71,Loja Física
-5,2024-01-23,159,Alimentos,Centro-Oeste,6,197.34,1184.04,Loja Física
-6,2024-01-24,134,Alimentos,Sul,19,116.3,2209.7,Online
-7,2024-01-13,162,Vestuário,Sudeste,13,275.41,3580.33,Online
-8,2024-03-25,114,Vestuário,Centro-Oeste,13,253.8,3299.4,Online
-9,2024-01-25,102,Brinquedos,Centro-Oeste,11,27.52,302.72,Telefone
-10,2024-01-20,136,Brinquedos,Sudeste,16,263.17,4210.72,Telefone
-11,2024-03-12,126,Alimentos,Norte,10,99.54,995.4,Telefone
-12,2024-03-22,157,Alimentos,Centro-Oeste,20,247.53,4950.6,Online
-13,2024-01-02,127,Alimentos,Centro-Oeste,15,161.21,2418.15,Telefone
-14,2024-01-05,183,Alimentos,Sul,13,285.2,3707.6,Loja Física
-15,2024-04-14,147,Vestuário,Sudeste,5,141.63,708.15,Loja Física
-16,2024-01-07,143,Brinquedos,Centro-Oeste,18,231.38,4164.84,Telefone
-17,2024-04-18,106,Brinquedos,Sudeste,10,87.13,871.3,Online
-18,2024-02-06,187,Alimentos,Norte,15,288.67,4330.05,Online
-19,2024-01-19,109,Alimentos,Sul,11,92.15,1013.65,Online
-20,2024-03-04,150,Vestuário,Sudeste,16,218.98,3503.68,Telefone
-21,2024-02-24,120,Alimentos,Centro-Oeste,20,84.39,1687.8,Loja Física
-22,2024-02-17,194,Vestuário,Sudeste,5,235.98,1179.9,Online
-23,2024-03-10,109,Vestuário,Sul,12,247.9,2974.8,Loja Física
-24,2024-01-23,144,Vestuário,Centro-Oeste,6,195.06,1170.36,Loja Física
-25,2024-03-23,146,Eletrônicos,Sul,10,77.2,772.0,Online
-26,2024-03-21,115,Alimentos,Centro-Oeste,17,201.64,3427.88,Online
-27,2024-01-10,110,Eletrônicos,Centro-Oeste,14,266.16,3726.24,Telefone
-28,2024-03-24,191,Eletrônicos,Centro-Oeste,13,25.07,325.91,Telefone
-29,2024-04-08,188,Eletrônicos,Sul,8,84.24,673.92,Telefone
-30,2024-01-27,158,Brinquedos,Sul,17,143.93,2446.81,Telefone
-31,2024-04-14,182,Alimentos,Sudeste,10,276.55,2765.5,Telefone
-32,2024-03-14,189,Brinquedos,Sudeste,20,93.27,1865.4,Loja Física
-33,2024-01-20,124,Brinquedos,Centro-Oeste,13,137.78,1791.14,Loja Física
-34,2024-02-04,133,Alimentos,Norte,11,99.35,1092.85,Loja Física
-35,2024-02-17,188,Alimentos,Centro-Oeste,15,50.71,760.65,Loja Física
-36,2024-01-20,113,Vestuário,Centro-Oeste,13,112.76,1465.88,Telefone
-37,2024-04-13,118,Eletrônicos,Norte,3,175.49,526.47,Loja Física
-38,2024-04-12,166,Alimentos,Centro-Oeste,3,286.23,858.69,Telefone
-39,2024-02-14,139,Brinquedos,Sudeste,11,70.11,771.21,Telefone
-40,2024-04-30,175,Eletrônicos,Sul,5,33.8,169.0,Telefone
-41,2024-03-16,109,Alimentos,Centro-Oeste,5,63.46,317.3,Loja Física
-42,2024-04-28,176,Vestuário,Sudeste,6,198.03,1188.18,Telefone
-43,2024-02-07,108,Eletrônicos,Sudeste,15,143.28,2149.2,Telefone
-44,2024-04-14,124,Alimentos,Norte,5,244.45,1222.25,Telefone
-45,2024-03-03,174,Alimentos,Sudeste,15,65.0,975.0,Online
-46,2024-03-25,152,Brinquedos,Sudeste,19,242.6,4609.4,Online
-47,2024-03-30,138,Eletrônicos,Norte,10,248.61,2486.1,Loja Física
-48,2024-03-22,183,Brinquedos,Centro-Oeste,6,266.73,1600.38,Loja Física
-49,2024-01-16,135,Brinquedos,Norte,8,160.11,1280.88,Online
-50,2024-01-15,119,Brinquedos,Sudeste,5,139.6,698.0,Online
-51,2024-02-25,171,Brinquedos,Sudeste,17,47.75,811.75,Loja Física
-52,2024-04-07,142,Vestuário,Norte,5,36.18,180.9,Loja Física
-53,2024-01-12,108,Eletrônicos,Sudeste,14,285.96,4003.44,Loja Física
-54,2024-04-20,122,Brinquedos,Centro-Oeste,9,95.8,862.2,Online
-55,2024-02-04,157,Vestuário,Sudeste,15,133.08,1996.2,Loja Física
-56,2024-02-27,140,Eletrônicos,Norte,18,178.39,3211.02,Online
-57,2024-02-17,113,Alimentos,Sul,6,229.61,1377.66,Loja Física
-58,2024-03-07,160,Vestuário,Sudeste,17,290.84,4944.28,Telefone
-59,2024-02-11,114,Vestuário,Centro-Oeste,13,246.96,3210.48,Loja Física
-60,2024-03-17,165,Brinquedos,Sul,16,290.14,4642.24,Telefone
-61,2024-02-08,149,Alimentos,Centro-Oeste,11,87.4,961.4,Telefone
-62,2024-04-25,160,Alimentos,Sul,3,229.27,687.81,Online
-63,2024-01-25,181,Alimentos,Centro-Oeste,6,158.11,948.66,Telefone
-64,2024-03-22,114,Vestuário,Norte,9,24.97,224.73,Telefone
-65,2024-02-23,158,Alimentos,Norte,13,225.29,2928.77,Loja Física
-66,2024-02-04,152,Eletrônicos,Sul,10,40.07,400.7,Loja Física
-67,2024-03-10,171,Brinquedos,Norte,9,99.37,894.33,Loja Física
-68,2024-02-15,155,Vestuário,Sul,9,232.31,2090.79,Online
-69,2024-02-29,186,Brinquedos,Sudeste,8,222.44,1779.52,Telefone
-70,2024-02-29,128,Alimentos,Sudeste,6,232.05,1392.3,Online
-71,2024-02-29,159,Brinquedos,Centro-Oeste,16,137.86,2205.76,Loja Física
-72,2024-04-06,110,Vestuário,Centro-Oeste,8,167.37,1338.96,Online
-73,2024-01-16,143,Alimentos,Sul,7,220.77,1545.39,Telefone
-74,2024-03-21,144,Alimentos,Sul,11,137.82,1516.02,Online
-75,2024-01-20,182,Eletrônicos,Norte,11,134.12,1475.32,Loja Física
-76,2024-04-03,180,Brinquedos,Sul,10,103.61,1036.1,Online
-77,2024-03-26,118,Vestuário,Sul,9,146.79,1321.11,Loja Física
-78,2024-01-16,118,Vestuário,Centro-Oeste,5,243.11,1215.55,Telefone
-79,2024-01-22,109,Alimentos,Sudeste,20,247.17,4943.4,Loja Física
-80,2024-03-19,171,Alimentos,Sul,19,137.78,2617.82,Online
-81,2024-03-17,196,Vestuário,Sul,6,250.39,1502.34,Online
-82,2024-01-13,169,Eletrônicos,Norte,15,144.01,2160.15,Telefone
-83,2024-01-11,139,Alimentos,Sul,7,27.74,194.18,Loja Física
-84,2024-02-18,141,Brinquedos,Norte,5,63.6,318.0,Loja Física
-85,2024-03-29,140,Vestuário,Sul,15,225.15,3377.25,Telefone
-86,2024-03-17,179,Brinquedos,Centro-Oeste,17,60.13,1022.21,Telefone
-87,2024-03-12,155,Alimentos,Sul,12,284.39,3412.68,Telefone
-88,2024-03-27,118,Alimentos,Norte,5,35.7,178.5,Loja Física
-89,2024-01-11,132,Alimentos,Sul,19,190.29,3615.51,Loja Física
-90,2024-03-23,151,Vestuário,Sul,12,145.8,1749.6,Telefone
-91,2024-03-03,127,Eletrônicos,Centro-Oeste,15,142.17,2132.55,Telefone
-92,2024-02-26,163,Eletrônicos,Sudeste,10,286.77,2867.7,Loja Física
-93,2024-04-08,126,Alimentos,Norte,8,272.49,2179.92,Online
-94,2024-01-19,112,Brinquedos,Centro-Oeste,10,138.19,1381.9,Online
-95,2024-02-15,158,Brinquedos,Norte,19,170.4,3237.6,Telefone
-96,2024-04-18,188,Vestuário,Sul,9,103.28,929.52,Loja Física
-97,2024-03-31,131,Brinquedos,Norte,14,40.63,568.82,Online
-98,2024-01-15,150,Eletrônicos,Centro-Oeste,6,32.15,192.9,Loja Física
-99,2024-03-31,184,Alimentos,Centro-Oeste,20,63.05,1261.0,Loja Física
-100,2024-01-06,189,Vestuário,Sudeste,14,162.03,2268.42,Telefone
-101,2024-03-23,186,Vestuário,Sudeste,17,72.05,1224.85,Loja Física
-102,2024-04-04,164,Vestuário,Centro-Oeste,4,208.53,834.12,Telefone
-103,2024-03-13,153,Eletrônicos,Norte,8,134.8,1078.4,Telefone
-104,2024-03-23,134,Alimentos,Centro-Oeste,11,281.03,3091.33,Telefone
-105,2024-01-08,100,Brinquedos,Norte,11,41.82,460.02,Loja Física
-106,2024-02-18,135,Brinquedos,Sudeste,17,167.51,2847.67,Online
-107,2024-01-07,149,Alimentos,Centro-Oeste,19,22.85,434.15,Telefone
-108,2024-02-09,119,Eletrônicos,Sudeste,17,123.89,2106.13,Telefone
-109,2024-01-02,131,Alimentos,Sudeste,7,89.49,626.43,Telefone
-110,2024-02-29,119,Alimentos,Centro-Oeste,6,31.07,186.42,Online
-111,2024-03-17,106,Brinquedos,Sudeste,20,98.14,1962.8,Telefone
-112,2024-01-02,178,Brinquedos,Norte,6,225.33,1351.98,Telefone
-113,2024-04-23,134,Vestuário,Norte,4,119.87,479.48,Telefone
-114,2024-01-24,170,Vestuário,Centro-Oeste,14,54.03,756.42,Telefone
-115,2024-01-19,131,Brinquedos,Sul,17,46.23,785.91,Online
-116,2024-01-27,160,Eletrônicos,Sudeste,19,163.41,3104.79,Loja Física
-117,2024-04-06,159,Alimentos,Centro-Oeste,9,48.74,438.66,Online
-118,2024-02-03,185,Brinquedos,Centro-Oeste,17,22.67,385.39,Loja Física
-119,2024-01-09,112,Vestuário,Norte,15,219.27,3289.05,Telefone
-120,2024-02-14,139,Alimentos,Sudeste,15,25.53,382.95,Loja Física
-121,2024-03-07,162,Vestuário,Sudeste,18,271.43,4885.74,Online
-122,2024-01-17,144,Vestuário,Centro-Oeste,8,58.42,467.36,Loja Física
-123,2024-01-25,109,Alimentos,Sul,8,106.75,854.0,Loja Física
-124,2024-04-16,144,Vestuário,Norte,5,47.42,237.1,Loja Física
-125,2024-02-18,126,Vestuário,Norte,17,112.57,1913.69,Telefone
-126,2024-01-12,143,Vestuário,Sul,17,240.66,4091.22,Online
-127,2024-03-09,120,Vestuário,Sul,14,275.46,3856.44,Loja Física
-128,2024-01-08,158,Eletrônicos,Norte,14,282.68,3957.52,Telefone
-129,2024-04-14,130,Eletrônicos,Sul,3,98.69,296.07,Telefone
-130,2024-03-26,125,Eletrônicos,Sul,14,47.55,665.7,Loja Física
-131,2024-01-20,195,Brinquedos,Norte,20,45.15,903.0,Telefone
-132,2024-01-12,117,Brinquedos,Centro-Oeste,12,140.98,1691.76,Online
-133,2024-03-06,124,Vestuário,Centro-Oeste,11,295.9,3254.9,Telefone
-134,2024-02-26,113,Vestuário,Centro-Oeste,20,175.02,3500.4,Online
-135,2024-01-13,159,Vestuário,Norte,5,43.98,219.9,Loja Física
-136,2024-04-03,102,Eletrônicos,Sul,3,171.4,514.2,Telefone
-137,2024-03-24,196,Eletrônicos,Norte,15,176.18,2642.7,Online
-138,2024-04-07,106,Eletrônicos,Centro-Oeste,4,122.77,491.08,Loja Física
-139,2024-01-21,167,Vestuário,Sudeste,15,61.67,925.05,Online
-140,2024-04-25,160,Brinquedos,Centro-Oeste,7,285.47,1998.29,Online
-141,2024-01-14,142,Brinquedos,Sudeste,10,150.42,1504.2,Loja Física
-142,2024-03-30,187,Brinquedos,Sudeste,12,131.84,1582.08,Online
-143,2024-03-01,136,Alimentos,Norte,15,187.68,2815.2,Online
-144,2024-03-03,123,Brinquedos,Sul,19,212.42,4035.98,Telefone
-145,2024-01-07,109,Vestuário,Sudeste,19,291.55,5539.45,Online
-146,2024-03-12,152,Alimentos,Sul,14,177.57,2485.98,Loja Física
-147,2024-01-19,176,Eletrônicos,Centro-Oeste,15,192.67,2890.05,Loja Física
-148,2024-02-03,115,Alimentos,Sul,13,170.96,2222.48,Online
-149,2024-02-10,114,Eletrônicos,Sudeste,19,279.81,5316.39,Telefone
-150,2024-01-27,143,Brinquedos,Centro-Oeste,9,122.06,1098.54,Telefone
-151,2024-03-18,122,Vestuário,Norte,7,104.35,730.45,Telefone
-152,2024-01-10,189,Eletrônicos,Sudeste,20,28.42,568.4,Loja Física
-153,2024-01-16,165,Alimentos,Norte,16,244.3,3908.8,Online
-154,2024-02-17,194,Vestuário,Sudeste,8,103.7,829.6,Telefone
-155,2024-02-21,156,Vestuário,Norte,20,107.69,2153.8,Online
-156,2024-03-12,135,Brinquedos,Centro-Oeste,17,130.75,2222.75,Online
-157,2024-01-31,131,Brinquedos,Sul,7,232.65,1628.55,Telefone
-158,2024-04-15,128,Vestuário,Norte,7,264.58,1852.06,Loja Física
-159,2024-02-12,186,Eletrônicos,Sul,20,47.2,944.0,Loja Física
-160,2024-04-07,188,Alimentos,Centro-Oeste,2,52.54,105.08,Loja Física
-161,2024-01-22,189,Brinquedos,Sudeste,6,75.65,453.9,Loja Física
-162,2024-04-28,119,Eletrônicos,Norte,5,204.0,1020.0,Online
-163,2024-04-09,128,Alimentos,Norte,4,27.31,109.24,Telefone
-164,2024-04-08,114,Brinquedos,Sul,6,83.56,501.36,Online
-165,2024-04-10,115,Vestuário,Norte,5,272.79,1363.95,Telefone
-166,2024-04-18,162,Vestuário,Sudeste,1,90.62,90.62,Loja Física
-167,2024-03-10,196,Eletrônicos,Sudeste,13,137.06,1781.78,Online
-168,2024-04-04,105,Eletrônicos,Sudeste,6,25.15,150.9,Loja Física
-169,2024-03-27,133,Brinquedos,Sul,11,117.69,1294.59,Telefone
-170,2024-04-14,139,Eletrônicos,Centro-Oeste,2,266.12,532.24,Telefone
-171,2024-02-10,167,Alimentos,Norte,12,44.38,532.56,Loja Física
-172,2024-04-10,198,Alimentos,Norte,5,267.43,1337.15,Telefone
-173,2024-01-16,104,Vestuário,Sul,17,80.73,1372.41,Loja Física
-174,2024-03-20,104,Vestuário,Centro-Oeste,6,77.89,467.34,Loja Física
-175,2024-01-18,178,Vestuário,Sudeste,11,112.5,1237.5,Loja Física
-176,2024-03-29,118,Eletrônicos,Sul,5,23.47,117.35,Telefone
-177,2024-01-19,181,Alimentos,Sul,12,166.18,1994.16,Loja Física
-178,2024-02-25,150,Eletrônicos,Centro-Oeste,8,299.3,2394.4,Online
-179,2024-03-27,193,Alimentos,Sul,17,43.96,747.32,Telefone
-180,2024-03-29,188,Vestuário,Norte,17,102.25,1738.25,Online
-181,2024-02-21,154,Alimentos,Centro-Oeste,10,239.22,2392.2,Online
-182,2024-02-01,127,Alimentos,Sudeste,14,290.22,4063.08,Loja Física
-183,2024-02-19,169,Vestuário,Sudeste,15,68.59,1028.85,Loja Física
-184,2024-03-29,146,Alimentos,Sudeste,14,276.96,3877.44,Telefone
-185,2024-02-14,136,Vestuário,Sul,17,180.67,3071.39,Online
-186,2024-04-29,196,Brinquedos,Sul,1,252.04,252.04,Telefone
-187,2024-03-21,172,Vestuário,Norte,11,52.32,575.52,Online
-188,2024-01-26,160,Eletrônicos,Norte,11,252.31,2775.41,Telefone
-189,2024-03-12,168,Vestuário,Norte,14,274.26,3839.64,Loja Física
-190,2024-02-27,119,Brinquedos,Centro-Oeste,9,248.77,2238.93,Telefone
-191,2024-01-08,142,Vestuário,Centro-Oeste,6,228.8,1372.8,Telefone
-192,2024-01-21,115,Brinquedos,Norte,9,266.7,2400.3,Loja Física
-193,2024-04-21,185,Vestuário,Sudeste,8,143.94,1151.52,Online
-194,2024-03-07,147,Alimentos,Norte,20,191.8,3836.0,Loja Física
-195,2024-02-28,145,Vestuário,Centro-Oeste,5,231.5,1157.5,Telefone
-196,2024-04-05,186,Alimentos,Centro-Oeste,2,245.87,491.74,Loja Física
-197,2024-01-11,165,Brinquedos,Centro-Oeste,10,97.35,973.5,Loja Física
-198,2024-04-17,192,Brinquedos,Sudeste,4,94.44,377.76,Loja Física
-199,2024-01-21,156,Alimentos,Centro-Oeste,14,104.55,1463.7,Online
-200,2024-03-01,111,Eletrônicos,Centro-Oeste,13,248.87,3235.31,Loja Física
-201,2024-01-01,138,Vestuário,Sul,20,112.54,2250.8,Loja Física
-202,2024-04-09,194,Brinquedos,Norte,5,161.04,805.2,Online
-203,2024-01-25,186,Vestuário,Sudeste,8,85.29,682.32,Telefone
-204,2024-03-23,197,Brinquedos,Sudeste,8,46.42,371.36,Telefone
-205,2024-04-20,150,Vestuário,Norte,6,39.86,239.16,Telefone
-206,2024-01-21,148,Brinquedos,Norte,16,95.37,1525.92,Loja Física
-207,2024-03-08,195,Brinquedos,Sudeste,16,255.49,4087.84,Loja Física
-208,2024-03-23,115,Vestuário,Norte,13,88.68,1152.84,Telefone
-209,2024-02-17,124,Vestuário,Centro-Oeste,17,248.17,4218.89,Telefone
-210,2024-03-28,195,Alimentos,Norte,14,135.52,1897.28,Loja Física
-211,2024-03-23,151,Brinquedos,Norte,19,218.25,4146.75,Loja Física
-212,2024-01-03,157,Alimentos,Sudeste,16,118.41,1894.56,Online
-213,2024-01-19,107,Brinquedos,Norte,18,114.14,2054.52,Online
-214,2024-01-29,119,Vestuário,Norte,14,145.42,2035.88,Telefone
-215,2024-01-27,101,Brinquedos,Sul,16,119.52,1912.32,Telefone
-216,2024-04-13,106,Eletrônicos,Sudeste,1,135.19,135.19,Online
-217,2024-03-25,191,Eletrônicos,Sul,10,257.56,2575.6,Loja Física
-218,2024-01-21,118,Vestuário,Sul,10,187.09,1870.9,Telefone
-219,2024-03-28,156,Vestuário,Norte,5,297.71,1488.55,Telefone
-220,2024-01-05,121,Alimentos,Sudeste,8,132.5,1060.0,Loja Física
-221,2024-01-10,160,Eletrônicos,Sul,9,243.3,2189.7,Loja Física
-222,2024-01-03,152,Brinquedos,Norte,17,58.53,995.01,Loja Física
-223,2024-03-22,150,Brinquedos,Norte,7,169.57,1186.99,Loja Física
-224,2024-01-21,178,Vestuário,Centro-Oeste,9,109.81,988.29,Online
-225,2024-04-17,124,Vestuário,Norte,10,165.22,1652.2,Loja Física
-226,2024-02-13,184,Brinquedos,Centro-Oeste,15,31.46,471.9,Telefone
-227,2024-03-05,133,Eletrônicos,Sul,12,195.74,2348.88,Telefone
-228,2024-02-04,154,Vestuário,Sudeste,15,150.15,2252.25,Online
-229,2024-02-06,150,Eletrônicos,Sul,14,284.6,3984.4,Loja Física
-230,2024-03-04,122,Eletrônicos,Norte,10,175.14,1751.4,Loja Física
-231,2024-04-22,127,Alimentos,Sudeste,4,115.5,462.0,Loja Física
-232,2024-04-03,199,Vestuário,Centro-Oeste,10,232.86,2328.6,Loja Física
-233,2024-03-06,135,Vestuário,Centro-Oeste,9,139.17,1252.53,Telefone
-234,2024-03-27,172,Vestuário,Sul,6,155.12,930.72,Telefone
-235,2024-01-05,172,Eletrônicos,Sul,10,63.94,639.4,Telefone
-236,2024-04-26,113,Eletrônicos,Norte,6,272.26,1633.56,Loja Física
-237,2024-01-28,130,Brinquedos,Sudeste,15,179.93,2698.95,Telefone
-238,2024-02-03,184,Vestuário,Sudeste,10,188.18,1881.8,Loja Física
-239,2024-01-13,152,Vestuário,Norte,8,102.07,816.56,Loja Física
-240,2024-04-03,100,Eletrônicos,Sul,10,50.22,502.2,Online
-241,2024-01-18,139,Eletrônicos,Sudeste,19,272.22,5172.18,Loja Física
-242,2024-04-11,184,Brinquedos,Sul,1,29.95,29.95,Loja Física
-243,2024-01-17,191,Alimentos,Sul,13,83.97,1091.61,Online
-244,2024-03-07,136,Eletrônicos,Sudeste,10,241.12,2411.2,Online
-245,2024-02-09,104,Alimentos,Sudeste,12,149.17,1790.04,Loja Física
-246,2024-04-03,130,Alimentos,Centro-Oeste,9,271.08,2439.72,Telefone
-247,2024-03-13,110,Eletrônicos,Norte,12,48.36,580.32,Telefone
-248,2024-02-19,131,Alimentos,Centro-Oeste,16,293.04,4688.64,Telefone
-249,2024-01-22,144,Brinquedos,Sul,7,296.21,2073.47,Telefone
-250,2024-04-03,186,Vestuário,Centro-Oeste,4,173.65,694.6,Online
-251,2024-03-21,162,Vestuário,Sudeste,18,271.01,4878.18,Telefone
-252,2024-01-10,118,Brinquedos,Norte,17,232.19,3947.23,Online
-253,2024-04-21,170,Alimentos,Norte,7,214.69,1502.83,Loja Física
-254,2024-01-26,187,Eletrônicos,Norte,20,278.46,5569.2,Telefone
-255,2024-01-18,125,Alimentos,Sul,13,295.8,3845.4,Online
-256,2024-03-04,136,Brinquedos,Norte,10,195.46,1954.6,Telefone
-257,2024-04-18,136,Alimentos,Norte,4,280.55,1122.2,Telefone
-258,2024-01-24,164,Vestuário,Norte,8,116.81,934.48,Telefone
-259,2024-03-16,150,Brinquedos,Sul,9,197.95,1781.55,Telefone
-260,2024-03-12,110,Eletrônicos,Sul,11,145.74,1603.14,Online
-261,2024-02-01,115,Eletrônicos,Sul,13,20.75,269.75,Telefone
-262,2024-02-22,191,Brinquedos,Norte,15,191.7,2875.5,Online
-263,2024-01-04,124,Alimentos,Norte,11,153.56,1689.16,Loja Física
-264,2024-03-08,157,Alimentos,Sudeste,9,42.11,378.99,Telefone
-265,2024-04-17,144,Alimentos,Sudeste,10,137.87,1378.7,Loja Física
-266,2024-01-04,125,Vestuário,Norte,13,274.92,3573.96,Loja Física
-267,2024-04-15,145,Brinquedos,Norte,6,263.08,1578.48,Online
-268,2024-01-04,155,Vestuário,Centro-Oeste,14,114.02,1596.28,Loja Física
-269,2024-01-03,160,Alimentos,Sul,18,160.41,2887.38,Telefone
-270,2024-03-11,118,Vestuário,Sudeste,16,33.97,543.52,Telefone
-271,2024-01-09,168,Eletrônicos,Sul,14,187.05,2618.7,Online
-272,2024-01-07,113,Brinquedos,Sul,18,27.31,491.58,Telefone
-273,2024-02-13,114,Brinquedos,Norte,5,166.83,834.15,Telefone
-274,2024-02-04,127,Brinquedos,Norte,20,125.97,2519.4,Online
-275,2024-02-07,191,Alimentos,Sul,17,227.82,3872.94,Loja Física
-276,2024-04-08,187,Alimentos,Sul,6,271.63,1629.78,Telefone
-277,2024-01-16,147,Eletrônicos,Sudeste,12,132.14,1585.68,Loja Física
-278,2024-04-11,180,Brinquedos,Sudeste,3,20.79,62.37,Online
-279,2024-03-19,124,Eletrônicos,Norte,18,84.96,1529.28,Loja Física
-280,2024-02-09,154,Vestuário,Sudeste,7,254.36,1780.52,Online
-281,2024-03-13,194,Brinquedos,Sudeste,8,247.49,1979.92,Loja Física
-282,2024-04-27,111,Brinquedos,Centro-Oeste,1,295.27,295.27,Telefone
-283,2024-01-20,161,Brinquedos,Sudeste,16,263.02,4208.32,Loja Física
-284,2024-01-11,198,Eletrônicos,Centro-Oeste,18,282.48,5084.64,Telefone
-285,2024-02-06,122,Brinquedos,Centro-Oeste,14,82.68,1157.52,Online
-286,2024-02-21,197,Brinquedos,Centro-Oeste,11,176.3,1939.3,Telefone
-287,2024-03-05,182,Alimentos,Sul,19,197.41,3750.79,Loja Física
-288,2024-04-15,116,Brinquedos,Norte,9,102.44,921.96,Loja Física
-289,2024-01-02,190,Brinquedos,Sul,10,60.01,600.1,Online
-290,2024-03-09,107,Eletrônicos,Norte,19,263.08,4998.52,Loja Física
-291,2024-03-14,172,Eletrônicos,Centro-Oeste,17,104.24,1772.08,Loja Física
-292,2024-01-04,160,Eletrônicos,Centro-Oeste,18,162.09,2917.62,Online
-293,2024-03-02,199,Brinquedos,Sul,5,263.99,1319.95,Online
-294,2024-04-11,171,Vestuário,Centro-Oeste,10,41.03,410.3,Loja Física
-295,2024-03-28,108,Vestuário,Sudeste,5,77.12,385.6,Telefone
-296,2024-02-26,154,Brinquedos,Centro-Oeste,9,233.18,2098.62,Online
-297,2024-04-20,140,Alimentos,Norte,6,150.61,903.66,Online
-298,2024-03-22,172,Brinquedos,Centro-Oeste,11,179.07,1969.77,Telefone
-299,2024-01-09,142,Vestuário,Sudeste,11,155.26,1707.86,Online
-300,2024-01-10,123,Vestuário,Centro-Oeste,17,179.38,3049.46,Online
-301,2024-01-12,144,Vestuário,Sul,13,40.77,530.01,Telefone
-302,2024-01-19,109,Alimentos,Sudeste,19,127.34,2419.46,Telefone
-303,2024-04-07,146,Eletrônicos,Centro-Oeste,9,231.05,2079.45,Telefone
-304,2024-02-04,165,Brinquedos,Centro-Oeste,15,261.95,3929.25,Online
-305,2024-03-17,196,Eletrônicos,Norte,9,270.75,2436.75,Loja Física
-306,2024-03-24,185,Eletrônicos,Sudeste,12,43.69,524.28,Loja Física
-307,2024-02-20,187,Alimentos,Centro-Oeste,10,133.51,1335.1,Loja Física
-308,2024-04-17,181,Vestuário,Centro-Oeste,2,169.52,339.04,Telefone
-309,2024-04-25,161,Eletrônicos,Sudeste,3,94.09,282.27,Telefone
-310,2024-03-29,111,Alimentos,Centro-Oeste,16,245.1,3921.6,Loja Física
-311,2024-03-17,106,Brinquedos,Norte,20,36.47,729.4,Telefone
-312,2024-03-02,120,Vestuário,Centro-Oeste,11,170.2,1872.2,Telefone
-313,2024-02-07,129,Eletrônicos,Centro-Oeste,12,161.97,1943.64,Online
-314,2024-03-06,148,Eletrônicos,Centro-Oeste,13,250.11,3251.43,Telefone
-315,2024-01-29,143,Brinquedos,Centro-Oeste,16,91.44,1463.04,Telefone
-316,2024-03-05,193,Brinquedos,Norte,6,60.15,360.9,Loja Física
-317,2024-03-26,125,Vestuário,Centro-Oeste,15,272.53,4087.95,Loja Física
-318,2024-02-10,143,Vestuário,Norte,5,44.65,223.25,Online
-319,2024-01-05,120,Brinquedos,Sul,13,285.84,3715.92,Telefone
-320,2024-04-08,112,Brinquedos,Norte,3,210.62,631.86,Telefone
-321,2024-02-29,148,Brinquedos,Sul,18,62.12,1118.16,Telefone
-322,2024-02-06,137,Vestuário,Sul,15,157.88,2368.2,Online
-323,2024-03-06,118,Brinquedos,Sudeste,15,200.71,3010.65,Telefone
-324,2024-04-30,136,Vestuário,Sul,9,28.35,255.15,Loja Física
-325,2024-04-04,131,Vestuário,Centro-Oeste,4,95.77,383.08,Online
-326,2024-03-22,145,Vestuário,Sudeste,12,246.41,2956.92,Telefone
-327,2024-03-01,109,Eletrônicos,Sul,19,118.26,2246.94,Telefone
-328,2024-01-30,132,Vestuário,Norte,18,48.03,864.54,Loja Física
-329,2024-03-17,169,Brinquedos,Centro-Oeste,7,190.14,1330.98,Online
-330,2024-02-04,102,Vestuário,Norte,11,131.56,1447.16,Telefone
-331,2024-02-11,109,Eletrônicos,Norte,15,115.72,1735.8,Online
-332,2024-03-22,195,Vestuário,Sudeste,8,41.36,330.88,Online
-333,2024-02-24,144,Vestuário,Sudeste,12,231.76,2781.12,Loja Física
-334,2024-02-22,169,Eletrônicos,Norte,6,281.14,1686.84,Loja Física
-335,2024-04-05,148,Brinquedos,Sul,10,125.39,1253.9,Loja Física
-336,2024-01-19,125,Eletrônicos,Norte,13,247.8,3221.4,Loja Física
-337,2024-03-05,142,Alimentos,Norte,19,154.65,2938.35,Telefone
-338,2024-03-06,168,Brinquedos,Sudeste,5,200.3,1001.5,Loja Física
-339,2024-03-25,186,Alimentos,Centro-Oeste,10,158.25,1582.5,Loja Física
-340,2024-01-06,195,Eletrônicos,Norte,11,217.25,2389.75,Online
-341,2024-01-30,108,Eletrônicos,Norte,8,159.39,1275.12,Telefone
-342,2024-03-18,157,Eletrônicos,Centro-Oeste,10,283.73,2837.3,Telefone
-343,2024-04-24,123,Vestuário,Centro-Oeste,4,158.5,634.0,Telefone
-344,2024-04-17,181,Alimentos,Sul,4,48.73,194.92,Telefone
-345,2024-03-12,163,Vestuário,Sudeste,7,269.46,1886.22,Loja Física
-346,2024-04-29,150,Brinquedos,Sudeste,4,154.21,616.84,Loja Física
-347,2024-01-02,140,Brinquedos,Sudeste,10,103.49,1034.9,Online
-348,2024-03-02,121,Brinquedos,Norte,8,245.8,1966.4,Online
-349,2024-03-24,102,Eletrônicos,Centro-Oeste,14,214.84,3007.76,Telefone
-350,2024-03-30,169,Brinquedos,Sul,19,231.32,4395.08,Telefone
-351,2024-02-19,126,Brinquedos,Centro-Oeste,19,103.62,1968.78,Online
-352,2024-02-05,152,Brinquedos,Centro-Oeste,18,297.98,5363.64,Telefone
-353,2024-01-31,166,Eletrônicos,Centro-Oeste,10,149.73,1497.3,Loja Física
-354,2024-03-24,161,Alimentos,Sudeste,16,290.03,4640.48,Loja Física
-355,2024-03-04,155,Brinquedos,Centro-Oeste,15,291.41,4371.15,Loja Física
-356,2024-03-09,188,Vestuário,Sul,19,171.71,3262.49,Loja Física
-357,2024-03-17,187,Brinquedos,Sul,20,246.12,4922.4,Loja Física
-358,2024-02-12,130,Brinquedos,Sul,6,213.65,1281.9,Loja Física
-359,2024-04-08,104,Alimentos,Sudeste,9,226.4,2037.6,Loja Física
-360,2024-03-06,104,Vestuário,Sul,18,98.59,1774.62,Telefone
-361,2024-03-01,136,Alimentos,Sudeste,17,208.43,3543.31,Online
-362,2024-04-09,186,Brinquedos,Sul,6,84.5,507.0,Loja Física
-363,2024-01-17,154,Eletrônicos,Centro-Oeste,8,138.64,1109.12,Online
-364,2024-03-07,124,Brinquedos,Sudeste,7,135.66,949.62,Loja Física
-365,2024-03-07,171,Vestuário,Sul,19,284.16,5399.04,Telefone
-366,2024-03-20,135,Eletrônicos,Sudeste,17,73.76,1253.92,Telefone
-367,2024-02-17,108,Vestuário,Sul,11,129.43,1423.73,Online
-368,2024-01-17,187,Vestuário,Centro-Oeste,15,123.77,1856.55,Online
-369,2024-03-12,126,Eletrônicos,Norte,15,63.72,955.8,Loja Física
-370,2024-01-04,188,Eletrônicos,Norte,17,232.73,3956.41,Online
-371,2024-04-22,132,Eletrônicos,Sul,2,266.62,533.24,Loja Física
-372,2024-02-21,108,Brinquedos,Sudeste,9,282.82,2545.38,Online
-373,2024-02-12,132,Alimentos,Norte,10,194.65,1946.5,Telefone
-374,2024-02-23,133,Eletrônicos,Norte,17,35.27,599.59,Loja Física
-375,2024-03-04,122,Vestuário,Norte,7,235.51,1648.57,Online
-376,2024-03-09,115,Vestuário,Sudeste,17,238.55,4055.35,Online
-377,2024-02-16,136,Vestuário,Sudeste,17,51.79,880.43,Telefone
-378,2024-02-14,113,Alimentos,Norte,17,90.75,1542.75,Loja Física
-379,2024-01-04,124,Brinquedos,Sul,5,164.93,824.65,Loja Física
-380,2024-04-02,132,Eletrônicos,Sul,7,127.39,891.73,Loja Física
-381,2024-04-23,198,Eletrônicos,Norte,1,219.27,219.27,Loja Física
-382,2024-01-10,153,Brinquedos,Norte,14,218.54,3059.56,Loja Física
-383,2024-03-11,190,Eletrônicos,Sudeste,5,232.66,1163.3,Loja Física
-384,2024-01-07,162,Brinquedos,Centro-Oeste,20,297.19,5943.8,Loja Física
-385,2024-04-30,161,Eletrônicos,Norte,3,206.63,619.89,Online
-386,2024-02-02,156,Vestuário,Sul,19,115.76,2199.44,Loja Física
-387,2024-02-08,129,Alimentos,Sul,17,51.02,867.34,Telefone
-388,2024-02-27,154,Brinquedos,Centro-Oeste,13,131.21,1705.73,Loja Física
-389,2024-01-16,102,Vestuário,Sul,16,242.77,3884.32,Online
-390,2024-04-17,137,Alimentos,Centro-Oeste,10,227.74,2277.4,Telefone
-391,2024-03-05,166,Eletrônicos,Sul,20,94.03,1880.6,Loja Física
-392,2024-03-09,150,Alimentos,Sul,13,64.52,838.76,Online
-393,2024-02-17,159,Vestuário,Sudeste,11,22.5,247.5,Online
-394,2024-04-01,179,Brinquedos,Norte,5,280.95,1404.75,Online
-395,2024-02-11,126,Alimentos,Sudeste,14,187.24,2621.36,Online
-396,2024-04-05,187,Alimentos,Sul,6,132.79,796.74,Online
-397,2024-03-20,146,Brinquedos,Sudeste,18,118.78,2138.04,Online
-398,2024-01-09,109,Eletrônicos,Centro-Oeste,11,71.76,789.36,Loja Física
-399,2024-01-27,190,Eletrônicos,Sul,15,52.63,789.45,Loja Física
-400,2024-01-30,134,Alimentos,Sudeste,12,157.03,1884.36,Telefone
-401,2024-01-24,165,Eletrônicos,Norte,7,91.02,637.14,Loja Física
-402,2024-04-03,167,Vestuário,Centro-Oeste,6,129.81,778.86,Online
-403,2024-03-15,108,Eletrônicos,Centro-Oeste,7,212.33,1486.31,Online
-404,2024-04-09,197,Brinquedos,Sudeste,5,212.88,1064.4,Online
-405,2024-02-04,119,Brinquedos,Norte,20,68.56,1371.2,Telefone
-406,2024-01-26,129,Vestuário,Sul,10,113.11,1131.1,Telefone
-407,2024-02-01,117,Eletrônicos,Centro-Oeste,17,162.99,2770.83,Loja Física
-408,2024-03-24,101,Brinquedos,Sudeste,19,271.71,5162.49,Loja Física
-409,2024-02-17,147,Alimentos,Centro-Oeste,5,139.53,697.65,Loja Física
-410,2024-02-11,104,Alimentos,Sul,12,85.97,1031.64,Loja Física
-411,2024-04-19,153,Vestuário,Sudeste,3,275.32,825.96,Online
-412,2024-04-22,166,Brinquedos,Sudeste,8,258.45,2067.6,Telefone
-413,2024-01-28,197,Alimentos,Norte,18,298.92,5380.56,Online
-414,2024-04-30,102,Brinquedos,Sudeste,5,82.96,414.8,Telefone
-415,2024-03-18,155,Alimentos,Norte,19,274.89,5222.91,Telefone
-416,2024-02-13,173,Alimentos,Norte,17,44.92,763.64,Loja Física
-417,2024-03-25,176,Eletrônicos,Norte,10,182.02,1820.2,Loja Física
-418,2024-02-24,131,Vestuário,Norte,17,115.44,1962.48,Loja Física
-419,2024-04-01,168,Vestuário,Sul,4,69.08,276.32,Telefone
-420,2024-04-08,176,Alimentos,Sul,9,233.96,2105.64,Telefone
-421,2024-02-20,112,Vestuário,Centro-Oeste,9,247.04,2223.36,Loja Física
-422,2024-03-21,164,Brinquedos,Centro-Oeste,20,294.52,5890.4,Telefone
-423,2024-04-14,170,Eletrônicos,Norte,4,139.24,556.96,Telefone
-424,2024-03-23,172,Eletrônicos,Centro-Oeste,17,188.9,3211.3,Loja Física
-425,2024-02-26,199,Eletrônicos,Sul,15,298.14,4472.1,Loja Física
-426,2024-03-10,145,Eletrônicos,Sudeste,15,90.2,1353.0,Telefone
-427,2024-01-08,192,Eletrônicos,Sudeste,10,124.13,1241.3,Online
-428,2024-04-20,130,Vestuário,Sul,9,168.59,1517.31,Telefone
-429,2024-02-06,117,Eletrônicos,Sul,12,215.83,2589.96,Online
-430,2024-04-05,131,Brinquedos,Sul,3,74.0,222.0,Telefone
-431,2024-04-24,176,Eletrônicos,Sul,9,246.9,2222.1,Telefone
-432,2024-04-14,143,Alimentos,Norte,4,248.18,992.72,Loja Física
-433,2024-04-04,177,Eletrônicos,Norte,5,198.82,994.1,Telefone
-434,2024-01-26,176,Eletrônicos,Sul,15,262.66,3939.9,Telefone
-435,2024-03-26,191,Brinquedos,Sudeste,18,68.1,1225.8,Telefone
-436,2024-01-26,129,Brinquedos,Sudeste,13,232.31,3020.03,Online
-437,2024-01-27,150,Alimentos,Centro-Oeste,6,53.75,322.5,Telefone
-438,2024-04-22,193,Eletrônicos,Sul,3,69.46,208.38,Loja Física
-439,2024-03-19,102,Alimentos,Centro-Oeste,16,64.53,1032.48,Loja Física
-440,2024-03-13,130,Brinquedos,Norte,19,107.78,2047.82,Online
-441,2024-03-12,141,Alimentos,Norte,18,231.18,4161.24,Telefone
-442,2024-02-06,129,Vestuário,Norte,17,200.73,3412.41,Telefone
-443,2024-01-22,195,Vestuário,Sul,17,125.86,2139.62,Online
-444,2024-04-29,107,Alimentos,Sudeste,6,62.46,374.76,Loja Física
-445,2024-04-25,198,Alimentos,Norte,8,186.98,1495.84,Online
-446,2024-04-24,169,Alimentos,Sudeste,6,81.79,490.74,Online
-447,2024-04-30,191,Alimentos,Norte,1,187.75,187.75,Telefone
-448,2024-04-17,173,Alimentos,Centro-Oeste,2,220.89,441.78,Online
-449,2024-02-16,128,Alimentos,Sul,6,211.71,1270.26,Online
-450,2024-03-23,184,Eletrônicos,Centro-Oeste,13,258.81,3364.53,Online
-451,2024-04-19,147,Eletrônicos,Norte,5,155.4,777.0,Online
-452,2024-01-01,123,Alimentos,Norte,7,113.95,797.65,Telefone
-453,2024-01-28,129,Eletrônicos,Sudeste,18,75.55,1359.9,Loja Física
-454,2024-03-02,147,Vestuário,Sul,14,293.37,4107.18,Online
-455,2024-03-21,110,Alimentos,Sudeste,14,91.46,1280.44,Loja Física
-456,2024-04-22,142,Alimentos,Norte,8,299.57,2396.56,Loja Física
-457,2024-03-22,111,Vestuário,Sudeste,9,89.35,804.15,Telefone
-458,2024-03-16,139,Vestuário,Centro-Oeste,14,142.08,1989.12,Telefone
-459,2024-02-29,199,Alimentos,Centro-Oeste,7,225.02,1575.14,Online
-460,2024-04-01,126,Alimentos,Centro-Oeste,6,136.83,820.98,Telefone
-461,2024-03-06,179,Vestuário,Sul,20,20.75,415.0,Online
-462,2024-03-28,188,Vestuário,Sul,10,213.96,2139.6,Online
-463,2024-02-23,172,Vestuário,Sudeste,6,196.88,1181.28,Online
-464,2024-03-17,145,Brinquedos,Centro-Oeste,13,232.41,3021.33,Telefone
-465,2024-03-16,171,Eletrônicos,Sudeste,14,129.62,1814.68,Online
-466,2024-03-13,133,Eletrônicos,Norte,5,161.54,807.7,Telefone
-467,2024-02-26,180,Alimentos,Norte,13,64.26,835.38,Online
-468,2024-02-19,122,Brinquedos,Sudeste,15,249.8,3747.0,Telefone
-469,2024-01-11,137,Vestuário,Centro-Oeste,5,152.59,762.95,Telefone
-470,2024-04-25,111,Vestuário,Sudeste,1,147.74,147.74,Online
-471,2024-02-15,153,Alimentos,Sudeste,16,166.48,2663.68,Online
-472,2024-02-25,122,Eletrônicos,Centro-Oeste,18,265.45,4778.1,Telefone
-473,2024-02-15,165,Brinquedos,Centro-Oeste,9,196.81,1771.29,Telefone
-474,2024-04-07,120,Alimentos,Sudeste,3,296.05,888.15,Online
-475,2024-03-18,170,Brinquedos,Sul,13,267.24,3474.12,Telefone
-476,2024-03-28,191,Vestuário,Norte,20,201.83,4036.6,Online
-477,2024-04-29,113,Vestuário,Norte,2,179.93,359.86,Loja Física
-478,2024-04-25,103,Brinquedos,Centro-Oeste,5,103.62,518.1,Loja Física
-479,2024-03-28,142,Vestuário,Sudeste,6,291.86,1751.16,Online
-480,2024-04-05,112,Vestuário,Sudeste,10,164.75,1647.5,Telefone
-481,2024-03-19,155,Vestuário,Sudeste,18,72.84,1311.12,Telefone
-482,2024-02-16,152,Alimentos,Norte,10,226.25,2262.5,Online
-483,2024-03-14,186,Alimentos,Centro-Oeste,7,224.69,1572.83,Loja Física
-484,2024-01-23,153,Alimentos,Sudeste,15,106.81,1602.15,Telefone
-485,2024-02-18,177,Brinquedos,Centro-Oeste,8,167.78,1342.24,Telefone
-486,2024-03-02,186,Alimentos,Norte,20,113.81,2276.2,Telefone
-487,2024-04-26,154,Vestuário,Sudeste,3,233.84,701.52,Online
-488,2024-02-02,113,Eletrônicos,Sudeste,12,115.53,1386.36,Telefone
-489,2024-04-06,193,Alimentos,Centro-Oeste,7,59.69,417.83,Online
-490,2024-02-03,133,Vestuário,Centro-Oeste,6,124.98,749.88,Telefone
-491,2024-04-08,199,Brinquedos,Norte,8,269.42,2155.36,Loja Física
-492,2024-03-08,168,Alimentos,Sul,12,246.81,2961.72,Telefone
-493,2024-02-21,153,Alimentos,Sul,17,201.13,3419.21,Telefone
-494,2024-02-06,140,Alimentos,Norte,7,174.58,1222.06,Online
-495,2024-01-07,148,Vestuário,Sudeste,15,125.77,1886.55,Telefone
-496,2024-02-23,158,Alimentos,Norte,13,137.15,1782.95,Online
-497,2024-03-16,156,Alimentos,Sul,12,127.16,1525.92,Telefone
-498,2024-03-18,124,Vestuário,Centro-Oeste,11,143.31,1576.41,Telefone
-499,2024-02-19,147,Eletrônicos,Norte,20,271.85,5437.0,Telefone
-500,2024-02-06,138,Eletrônicos,Sul,14,214.58,3004.12,Loja Física
+1,2024-03-30,189,Vestuário,Sudeste,19,77.56,1473.64,Loja Física
+2,2024-01-22,104,Brinquedos,Norte,11,126.55,1392.05,Telefone
+3,2024-04-12,178,Brinquedos,Norte,2,31.31,62.62,Telefone
+4,2024-01-14,182,Alimentos,Sul,7,268.48,1879.36,Loja Física
+5,2024-04-28,114,Brinquedos,Centro-Oeste,6,175.53,1053.18,Loja Física
+6,2024-03-22,142,Eletrônicos,Sudeste,15,103.34,1550.1,Telefone
+7,2024-04-24,121,Eletrônicos,Sudeste,5,268.57,1342.85,Online
+8,2024-02-03,195,Brinquedos,Sudeste,17,256.73,4364.41,Online
+9,2024-01-08,163,Eletrônicos,Norte,17,73.27,1245.59,Online
+10,2024-04-28,186,Alimentos,Sudeste,7,193.25,1352.75,Telefone
+11,2024-03-28,101,Vestuário,Norte,18,195.75,3523.5,Loja Física
+12,2024-04-18,112,Vestuário,Sul,4,199.0,796.0,Online
+13,2024-03-23,151,Brinquedos,Norte,5,160.1,800.5,Online
+14,2024-02-20,134,Eletrônicos,Norte,13,143.05,1859.65,Telefone
+15,2024-01-01,187,Vestuário,Centro-Oeste,9,47.05,423.45,Telefone
+16,2024-04-06,124,Brinquedos,Norte,3,112.34,337.02,Telefone
+17,2024-03-13,128,Brinquedos,Centro-Oeste,15,142.22,2133.3,Online
+18,2024-04-10,194,Alimentos,Sudeste,5,22.05,110.25,Loja Física
+19,2024-04-26,138,Alimentos,Norte,10,92.96,929.6,Telefone
+20,2024-03-28,185,Brinquedos,Sul,18,189.93,3418.74,Telefone
+21,2024-01-25,149,Brinquedos,Sudeste,6,62.78,376.68,Online
+22,2024-02-21,186,Alimentos,Norte,20,102.52,2050.4,Telefone
+23,2024-02-11,177,Brinquedos,Sul,15,101.13,1516.95,Telefone
+24,2024-02-26,132,Brinquedos,Norte,15,45.2,678.0,Loja Física
+25,2024-04-06,188,Alimentos,Centro-Oeste,6,26.15,156.9,Telefone
+26,2024-01-26,128,Eletrônicos,Sudeste,20,233.53,4670.6,Telefone
+27,2024-03-03,180,Eletrônicos,Sudeste,20,76.61,1532.2,Telefone
+28,2024-02-06,154,Eletrônicos,Sudeste,13,285.6,3712.8,Telefone
+29,2024-04-20,122,Alimentos,Norte,9,277.19,2494.71,Loja Física
+30,2024-04-02,157,Brinquedos,Norte,4,93.29,373.16,Telefone
+31,2024-02-03,120,Eletrônicos,Sul,6,39.92,239.52,Loja Física
+32,2024-01-08,108,Alimentos,Sudeste,12,279.89,3358.68,Loja Física
+33,2024-04-11,167,Brinquedos,Norte,7,216.17,1513.19,Loja Física
+34,2024-04-16,105,Alimentos,Norte,3,118.59,355.77,Telefone
+35,2024-02-05,161,Alimentos,Sudeste,5,283.29,1416.45,Loja Física
+36,2024-02-25,107,Brinquedos,Centro-Oeste,14,157.84,2209.76,Online
+37,2024-01-22,130,Alimentos,Norte,18,282.57,5086.26,Loja Física
+38,2024-04-27,133,Vestuário,Sul,3,33.17,99.51,Online
+39,2024-03-21,110,Vestuário,Sudeste,5,182.65,913.25,Online
+40,2024-04-22,116,Alimentos,Sul,1,266.49,266.49,Loja Física
+41,2024-01-12,108,Brinquedos,Norte,18,296.71,5340.78,Loja Física
+42,2024-02-10,127,Eletrônicos,Norte,13,177.9,2312.7,Telefone
+43,2024-01-09,167,Vestuário,Centro-Oeste,12,130.51,1566.12,Online
+44,2024-04-30,111,Alimentos,Centro-Oeste,10,188.25,1882.5,Online
+45,2024-02-09,159,Alimentos,Centro-Oeste,13,234.15,3043.95,Loja Física
+46,2024-01-27,144,Eletrônicos,Sudeste,15,259.06,3885.9,Online
+47,2024-04-27,136,Vestuário,Sul,2,134.91,269.82,Loja Física
+48,2024-02-16,125,Alimentos,Sudeste,20,229.11,4582.2,Loja Física
+49,2024-04-17,197,Brinquedos,Norte,7,241.1,1687.7,Loja Física
+50,2024-01-18,144,Eletrônicos,Sul,19,188.0,3572.0,Telefone
+51,2024-04-23,177,Brinquedos,Centro-Oeste,9,44.82,403.38,Online
+52,2024-01-03,127,Eletrônicos,Norte,18,122.97,2213.46,Telefone
+53,2024-02-24,125,Eletrônicos,Norte,10,29.69,296.9,Telefone
+54,2024-01-22,147,Eletrônicos,Centro-Oeste,14,49.29,690.06,Online
+55,2024-04-23,183,Alimentos,Centro-Oeste,4,169.45,677.8,Online
+56,2024-01-09,143,Alimentos,Norte,16,255.26,4084.16,Online
+57,2024-04-09,183,Brinquedos,Centro-Oeste,3,58.82,176.46,Telefone
+58,2024-01-20,192,Vestuário,Norte,6,168.55,1011.3,Loja Física
+59,2024-04-12,118,Vestuário,Sudeste,6,66.95,401.7,Online
+60,2024-02-14,177,Vestuário,Centro-Oeste,5,48.54,242.7,Telefone
+61,2024-03-11,177,Eletrônicos,Sudeste,20,289.36,5787.2,Online
+62,2024-03-05,119,Brinquedos,Sul,12,83.06,996.72,Online
+63,2024-03-04,165,Alimentos,Norte,7,216.59,1516.13,Loja Física
+64,2024-03-25,190,Alimentos,Norte,20,180.2,3604.0,Telefone
+65,2024-04-29,193,Alimentos,Norte,3,289.55,868.65,Loja Física
+66,2024-04-28,178,Alimentos,Centro-Oeste,4,227.29,909.16,Loja Física
+67,2024-03-19,136,Eletrônicos,Centro-Oeste,7,298.63,2090.41,Online
+68,2024-01-02,111,Eletrônicos,Norte,11,164.53,1809.83,Telefone
+69,2024-04-19,180,Vestuário,Centro-Oeste,8,165.95,1327.6,Telefone
+70,2024-04-29,185,Eletrônicos,Sudeste,10,145.86,1458.6,Telefone
+71,2024-02-17,126,Vestuário,Sudeste,16,274.53,4392.48,Online
+72,2024-03-10,179,Eletrônicos,Centro-Oeste,6,201.57,1209.42,Online
+73,2024-02-12,188,Brinquedos,Sul,12,52.55,630.6,Loja Física
+74,2024-02-23,170,Vestuário,Sudeste,5,162.25,811.25,Online
+75,2024-04-11,106,Vestuário,Norte,10,127.62,1276.2,Online
+76,2024-04-20,128,Eletrônicos,Sudeste,3,194.71,584.13,Online
+77,2024-02-15,115,Eletrônicos,Centro-Oeste,7,79.78,558.46,Loja Física
+78,2024-02-25,138,Eletrônicos,Sul,14,259.02,3626.28,Telefone
+79,2024-02-20,140,Vestuário,Centro-Oeste,8,171.93,1375.44,Loja Física
+80,2024-03-30,170,Vestuário,Sudeste,10,124.65,1246.5,Online
+81,2024-02-14,115,Vestuário,Centro-Oeste,13,149.17,1939.21,Loja Física
+82,2024-03-26,138,Vestuário,Sul,12,216.17,2594.04,Loja Física
+83,2024-03-08,183,Alimentos,Norte,14,106.37,1489.18,Loja Física
+84,2024-04-13,199,Alimentos,Norte,5,145.45,727.25,Online
+85,2024-01-02,129,Vestuário,Norte,13,206.72,2687.36,Online
+86,2024-03-01,184,Alimentos,Centro-Oeste,13,221.75,2882.75,Loja Física
+87,2024-01-07,159,Alimentos,Sudeste,5,136.59,682.95,Loja Física
+88,2024-03-09,106,Eletrônicos,Sudeste,15,264.45,3966.75,Loja Física
+89,2024-04-10,127,Alimentos,Centro-Oeste,3,126.03,378.09,Loja Física
+90,2024-02-29,155,Eletrônicos,Sudeste,11,66.98,736.78,Loja Física
+91,2024-02-19,158,Brinquedos,Norte,6,107.92,647.52,Online
+92,2024-02-06,117,Alimentos,Sul,5,194.88,974.4,Telefone
+93,2024-02-08,104,Alimentos,Sul,7,69.66,487.62,Telefone
+94,2024-01-10,161,Alimentos,Norte,20,88.26,1765.2,Online
+95,2024-03-10,188,Eletrônicos,Sudeste,5,270.46,1352.3,Online
+96,2024-03-14,180,Brinquedos,Norte,6,198.27,1189.62,Loja Física
+97,2024-01-26,144,Brinquedos,Norte,11,111.16,1222.76,Telefone
+98,2024-01-02,120,Brinquedos,Sudeste,5,278.1,1390.5,Loja Física
+99,2024-03-16,142,Eletrônicos,Norte,19,165.58,3146.02,Online
+100,2024-03-11,105,Brinquedos,Centro-Oeste,15,159.53,2392.95,Online
+101,2024-01-11,140,Alimentos,Norte,10,186.95,1869.5,Loja Física
+102,2024-01-20,141,Vestuário,Centro-Oeste,18,30.71,552.78,Loja Física
+103,2024-03-10,112,Vestuário,Sudeste,12,277.0,3324.0,Loja Física
+104,2024-02-20,115,Eletrônicos,Sul,8,185.15,1481.2,Online
+105,2024-03-03,111,Brinquedos,Centro-Oeste,12,22.04,264.48,Loja Física
+106,2024-01-16,149,Eletrônicos,Sul,14,243.48,3408.72,Loja Física
+107,2024-01-18,179,Alimentos,Sul,6,116.87,701.22,Online
+108,2024-03-20,130,Brinquedos,Centro-Oeste,9,75.23,677.07,Loja Física
+109,2024-04-12,151,Vestuário,Centro-Oeste,2,29.0,58.0,Loja Física
+110,2024-03-02,152,Eletrônicos,Norte,8,125.39,1003.12,Telefone
+111,2024-03-28,172,Vestuário,Centro-Oeste,15,71.55,1073.25,Telefone
+112,2024-01-16,153,Vestuário,Norte,11,48.01,528.11,Loja Física
+113,2024-01-03,156,Vestuário,Norte,19,88.17,1675.23,Online
+114,2024-02-19,144,Vestuário,Sul,13,127.98,1663.74,Telefone
+115,2024-04-12,129,Eletrônicos,Sudeste,6,154.83,928.98,Loja Física
+116,2024-03-13,138,Alimentos,Norte,12,181.06,2172.72,Online
+117,2024-04-03,150,Vestuário,Centro-Oeste,6,55.9,335.4,Loja Física
+118,2024-03-31,146,Vestuário,Norte,19,136.17,2587.23,Online
+119,2024-04-03,137,Vestuário,Sudeste,8,240.04,1920.32,Telefone
+120,2024-02-24,146,Alimentos,Sul,8,87.72,701.76,Telefone
+121,2024-02-23,168,Alimentos,Sudeste,17,121.61,2067.37,Telefone
+122,2024-03-11,104,Brinquedos,Norte,16,149.61,2393.76,Online
+123,2024-03-29,195,Eletrônicos,Norte,18,165.43,2977.74,Online
+124,2024-04-21,194,Alimentos,Sudeste,2,162.12,324.24,Online
+125,2024-03-20,194,Eletrônicos,Sul,6,39.31,235.86,Telefone
+126,2024-02-03,119,Alimentos,Norte,8,77.34,618.72,Loja Física
+127,2024-03-19,139,Eletrônicos,Norte,17,295.18,5018.06,Online
+128,2024-02-23,180,Brinquedos,Sul,14,80.02,1120.28,Loja Física
+129,2024-04-04,133,Vestuário,Sudeste,6,50.23,301.38,Telefone
+130,2024-03-24,175,Brinquedos,Centro-Oeste,6,264.69,1588.14,Online
+131,2024-01-24,111,Brinquedos,Sudeste,19,288.08,5473.52,Telefone
+132,2024-03-09,100,Eletrônicos,Sul,15,205.14,3077.1,Online
+133,2024-01-03,117,Eletrônicos,Sul,11,132.36,1455.96,Online
+134,2024-03-19,196,Alimentos,Sudeste,20,186.41,3728.2,Online
+135,2024-02-25,101,Eletrônicos,Sudeste,16,244.73,3915.68,Loja Física
+136,2024-03-05,159,Vestuário,Centro-Oeste,8,129.79,1038.32,Telefone
+137,2024-03-11,125,Vestuário,Norte,8,172.3,1378.4,Online
+138,2024-01-20,187,Vestuário,Norte,12,296.65,3559.8,Loja Física
+139,2024-01-26,132,Brinquedos,Norte,19,256.07,4865.33,Telefone
+140,2024-02-17,144,Eletrônicos,Sul,7,59.63,417.41,Loja Física
+141,2024-01-09,196,Eletrônicos,Norte,14,128.23,1795.22,Online
+142,2024-03-13,133,Alimentos,Centro-Oeste,12,27.96,335.52,Loja Física
+143,2024-01-12,134,Eletrônicos,Sul,9,150.38,1353.42,Loja Física
+144,2024-04-16,194,Brinquedos,Centro-Oeste,6,68.07,408.42,Loja Física
+145,2024-03-16,128,Brinquedos,Centro-Oeste,11,201.3,2214.3,Online
+146,2024-01-30,179,Vestuário,Centro-Oeste,7,96.66,676.62,Online
+147,2024-01-17,137,Brinquedos,Centro-Oeste,19,273.86,5203.34,Online
+148,2024-04-15,136,Alimentos,Sul,1,62.09,62.09,Loja Física
+149,2024-02-26,196,Alimentos,Sudeste,18,128.58,2314.44,Online
+150,2024-03-18,111,Brinquedos,Sudeste,18,201.57,3628.26,Online
+151,2024-03-22,134,Vestuário,Centro-Oeste,9,291.44,2622.96,Telefone
+152,2024-02-14,199,Eletrônicos,Sudeste,16,59.02,944.32,Online
+153,2024-01-14,191,Eletrônicos,Norte,12,188.14,2257.68,Loja Física
+154,2024-02-15,182,Eletrônicos,Centro-Oeste,5,173.78,868.9,Telefone
+155,2024-04-03,133,Eletrônicos,Sudeste,9,163.14,1468.26,Online
+156,2024-04-19,197,Alimentos,Centro-Oeste,7,138.76,971.32,Loja Física
+157,2024-02-27,181,Eletrônicos,Sudeste,12,256.29,3075.48,Telefone
+158,2024-03-09,145,Eletrônicos,Sul,14,133.64,1870.96,Loja Física
+159,2024-03-05,152,Vestuário,Centro-Oeste,13,277.5,3607.5,Telefone
+160,2024-01-11,148,Brinquedos,Sudeste,10,82.6,826.0,Telefone
+161,2024-03-14,179,Vestuário,Sudeste,20,228.02,4560.4,Telefone
+162,2024-03-29,106,Alimentos,Centro-Oeste,9,287.69,2589.21,Telefone
+163,2024-01-12,129,Vestuário,Norte,14,53.9,754.6,Telefone
+164,2024-02-14,185,Alimentos,Centro-Oeste,5,115.82,579.1,Online
+165,2024-02-20,169,Vestuário,Norte,14,78.5,1099.0,Telefone
+166,2024-01-27,129,Eletrônicos,Centro-Oeste,17,29.59,503.03,Online
+167,2024-02-01,192,Brinquedos,Sudeste,18,95.35,1716.3,Online
+168,2024-04-08,161,Alimentos,Sudeste,7,221.92,1553.44,Online
+169,2024-02-13,198,Eletrônicos,Sul,11,290.74,3198.14,Online
+170,2024-01-13,156,Vestuário,Sudeste,17,74.03,1258.51,Online
+171,2024-01-01,164,Brinquedos,Centro-Oeste,15,299.49,4492.35,Loja Física
+172,2024-01-18,182,Vestuário,Sudeste,17,91.18,1550.06,Loja Física
+173,2024-02-19,172,Alimentos,Sul,13,64.26,835.38,Loja Física
+174,2024-04-30,111,Brinquedos,Sul,9,291.67,2625.03,Telefone
+175,2024-01-12,103,Alimentos,Norte,5,203.54,1017.7,Telefone
+176,2024-02-10,161,Brinquedos,Sudeste,10,287.66,2876.6,Online
+177,2024-04-22,122,Brinquedos,Norte,5,280.32,1401.6,Telefone
+178,2024-02-12,180,Vestuário,Sudeste,17,71.35,1212.95,Online
+179,2024-01-17,119,Eletrônicos,Norte,14,144.33,2020.62,Loja Física
+180,2024-02-26,169,Eletrônicos,Sudeste,20,231.24,4624.8,Online
+181,2024-01-07,107,Alimentos,Sul,19,285.72,5428.68,Loja Física
+182,2024-02-16,140,Vestuário,Sul,14,21.95,307.3,Loja Física
+183,2024-02-08,118,Brinquedos,Centro-Oeste,5,257.91,1289.55,Online
+184,2024-03-20,119,Vestuário,Sudeste,6,247.23,1483.38,Online
+185,2024-04-18,192,Vestuário,Sul,8,199.08,1592.64,Telefone
+186,2024-03-07,150,Alimentos,Norte,8,36.67,293.36,Telefone
+187,2024-03-23,139,Brinquedos,Sudeste,5,43.04,215.2,Telefone
+188,2024-03-13,103,Alimentos,Centro-Oeste,19,197.63,3754.97,Online
+189,2024-04-23,194,Eletrônicos,Sudeste,5,238.89,1194.45,Loja Física
+190,2024-01-23,133,Vestuário,Sudeste,16,205.86,3293.76,Telefone
+191,2024-01-21,119,Alimentos,Centro-Oeste,13,272.33,3540.29,Telefone
+192,2024-02-05,149,Brinquedos,Sudeste,8,224.06,1792.48,Loja Física
+193,2024-02-17,197,Alimentos,Sudeste,20,50.77,1015.4,Loja Física
+194,2024-01-13,104,Brinquedos,Norte,6,193.19,1159.14,Loja Física
+195,2024-03-27,116,Brinquedos,Sudeste,15,176.07,2641.05,Online
+196,2024-03-07,174,Eletrônicos,Centro-Oeste,15,189.27,2839.05,Loja Física
+197,2024-02-21,139,Eletrônicos,Centro-Oeste,9,79.22,712.98,Loja Física
+198,2024-01-15,161,Vestuário,Sul,12,283.13,3397.56,Online
+199,2024-03-31,113,Eletrônicos,Sudeste,11,277.92,3057.12,Loja Física
+200,2024-02-22,186,Vestuário,Sudeste,8,53.42,427.36,Loja Física
+201,2024-04-18,187,Alimentos,Norte,2,173.19,346.38,Loja Física
+202,2024-04-02,155,Brinquedos,Sul,5,72.1,360.5,Loja Física
+203,2024-04-15,177,Eletrônicos,Sudeste,1,242.96,242.96,Online
+204,2024-04-18,134,Brinquedos,Sul,10,227.48,2274.8,Online
+205,2024-01-02,119,Eletrônicos,Norte,12,124.05,1488.6,Loja Física
+206,2024-01-05,100,Vestuário,Sul,20,242.65,4853.0,Loja Física
+207,2024-03-17,179,Vestuário,Sudeste,14,169.11,2367.54,Telefone
+208,2024-04-19,180,Brinquedos,Norte,1,273.03,273.03,Online
+209,2024-02-13,162,Brinquedos,Centro-Oeste,11,197.43,2171.73,Loja Física
+210,2024-04-20,153,Eletrônicos,Norte,1,280.66,280.66,Loja Física
+211,2024-01-14,141,Brinquedos,Sul,7,136.27,953.89,Loja Física
+212,2024-04-30,100,Alimentos,Sul,4,46.17,184.68,Loja Física
+213,2024-02-29,175,Vestuário,Sudeste,16,197.09,3153.44,Online
+214,2024-02-03,115,Alimentos,Centro-Oeste,6,114.55,687.3,Loja Física
+215,2024-02-22,175,Alimentos,Sudeste,14,186.39,2609.46,Loja Física
+216,2024-04-08,110,Eletrônicos,Centro-Oeste,9,241.26,2171.34,Loja Física
+217,2024-02-03,146,Vestuário,Centro-Oeste,18,245.53,4419.54,Telefone
+218,2024-03-24,174,Alimentos,Sudeste,6,107.32,643.92,Online
+219,2024-01-27,182,Eletrônicos,Sudeste,12,273.7,3284.4,Online
+220,2024-02-23,179,Vestuário,Sudeste,20,152.96,3059.2,Loja Física
+221,2024-04-10,106,Vestuário,Norte,2,99.16,198.32,Online
+222,2024-02-08,105,Brinquedos,Norte,9,109.12,982.08,Online
+223,2024-01-10,115,Vestuário,Sudeste,12,172.98,2075.76,Online
+224,2024-01-05,161,Vestuário,Sul,9,31.21,280.89,Online
+225,2024-03-05,127,Eletrônicos,Centro-Oeste,12,237.88,2854.56,Telefone
+226,2024-02-19,137,Brinquedos,Centro-Oeste,19,21.45,407.55,Online
+227,2024-04-22,152,Brinquedos,Centro-Oeste,6,31.27,187.62,Loja Física
+228,2024-01-24,137,Eletrônicos,Sul,10,74.16,741.6,Online
+229,2024-01-29,199,Eletrônicos,Sudeste,7,184.46,1291.22,Telefone
+230,2024-02-11,161,Brinquedos,Sul,16,216.75,3468.0,Telefone
+231,2024-04-04,175,Eletrônicos,Sul,7,176.52,1235.64,Online
+232,2024-04-20,131,Vestuário,Norte,1,144.84,144.84,Telefone
+233,2024-01-05,132,Vestuário,Sul,20,286.84,5736.8,Online
+234,2024-03-29,135,Eletrônicos,Norte,6,231.24,1387.44,Telefone
+235,2024-04-13,143,Alimentos,Centro-Oeste,7,78.67,550.69,Loja Física
+236,2024-04-01,178,Eletrônicos,Sul,6,55.51,333.06,Loja Física
+237,2024-02-27,113,Eletrônicos,Sul,14,41.41,579.74,Telefone
+238,2024-04-23,133,Eletrônicos,Centro-Oeste,6,179.58,1077.48,Online
+239,2024-02-20,150,Vestuário,Centro-Oeste,5,49.87,249.35,Online
+240,2024-04-23,126,Brinquedos,Centro-Oeste,9,170.55,1534.95,Loja Física
+241,2024-01-12,129,Brinquedos,Sul,11,25.19,277.09,Telefone
+242,2024-02-25,179,Vestuário,Sudeste,17,152.58,2593.86,Online
+243,2024-03-30,143,Vestuário,Norte,19,71.21,1352.99,Loja Física
+244,2024-04-25,134,Eletrônicos,Centro-Oeste,5,291.56,1457.8,Telefone
+245,2024-01-27,147,Alimentos,Centro-Oeste,14,260.67,3649.38,Telefone
+246,2024-02-12,159,Eletrônicos,Norte,6,26.61,159.66,Telefone
+247,2024-04-30,112,Brinquedos,Sudeste,8,21.36,170.88,Online
+248,2024-01-01,184,Alimentos,Norte,20,119.02,2380.4,Loja Física
+249,2024-04-07,112,Alimentos,Norte,10,294.99,2949.9,Loja Física
+250,2024-03-16,161,Vestuário,Sudeste,6,224.11,1344.66,Online
+251,2024-02-04,173,Eletrônicos,Norte,16,247.71,3963.36,Telefone
+252,2024-04-28,188,Alimentos,Sudeste,7,186.61,1306.27,Telefone
+253,2024-04-04,132,Alimentos,Centro-Oeste,6,274.23,1645.38,Loja Física
+254,2024-03-03,104,Alimentos,Sudeste,13,269.12,3498.56,Loja Física
+255,2024-02-23,181,Alimentos,Centro-Oeste,16,208.9,3342.4,Online
+256,2024-03-23,131,Brinquedos,Centro-Oeste,5,48.52,242.6,Loja Física
+257,2024-02-10,162,Vestuário,Norte,17,170.37,2896.29,Loja Física
+258,2024-04-12,156,Vestuário,Centro-Oeste,9,209.03,1881.27,Telefone
+259,2024-03-10,124,Eletrônicos,Sudeste,9,116.01,1044.09,Loja Física
+260,2024-03-27,178,Alimentos,Norte,9,199.17,1792.53,Telefone
+261,2024-03-19,142,Brinquedos,Norte,15,143.69,2155.35,Loja Física
+262,2024-01-06,199,Eletrônicos,Centro-Oeste,11,225.39,2479.29,Loja Física
+263,2024-01-07,174,Vestuário,Sudeste,20,248.04,4960.8,Loja Física
+264,2024-02-19,151,Brinquedos,Centro-Oeste,16,90.94,1455.04,Telefone
+265,2024-01-31,180,Eletrônicos,Sudeste,18,283.11,5095.98,Telefone
+266,2024-03-02,150,Brinquedos,Norte,18,289.42,5209.56,Telefone
+267,2024-04-11,178,Eletrônicos,Norte,4,78.42,313.68,Telefone
+268,2024-03-04,118,Alimentos,Norte,8,47.47,379.76,Online
+269,2024-02-23,133,Vestuário,Sul,13,286.89,3729.57,Loja Física
+270,2024-03-15,173,Vestuário,Sul,12,115.16,1381.92,Online
+271,2024-01-14,199,Brinquedos,Centro-Oeste,13,133.13,1730.69,Loja Física
+272,2024-04-23,194,Brinquedos,Sudeste,7,277.86,1945.02,Online
+273,2024-03-25,121,Alimentos,Centro-Oeste,12,49.13,589.56,Online
+274,2024-03-11,128,Alimentos,Centro-Oeste,16,83.18,1330.88,Loja Física
+275,2024-04-06,172,Brinquedos,Norte,7,175.79,1230.53,Online
+276,2024-04-12,164,Brinquedos,Sudeste,6,262.93,1577.58,Loja Física
+277,2024-03-02,148,Vestuário,Norte,16,51.65,826.4,Telefone
+278,2024-03-14,184,Brinquedos,Sul,13,130.52,1696.76,Online
+279,2024-02-29,117,Vestuário,Sul,19,170.22,3234.18,Online
+280,2024-03-05,174,Brinquedos,Centro-Oeste,18,200.44,3607.92,Online
+281,2024-03-17,173,Eletrônicos,Sul,16,177.19,2835.04,Telefone
+282,2024-04-07,127,Alimentos,Norte,2,231.55,463.1,Online
+283,2024-02-17,176,Vestuário,Norte,18,71.24,1282.32,Telefone
+284,2024-02-20,147,Alimentos,Centro-Oeste,11,291.95,3211.45,Telefone
+285,2024-03-20,103,Eletrônicos,Sul,6,148.5,891.0,Online
+286,2024-01-05,188,Brinquedos,Norte,18,92.04,1656.72,Online
+287,2024-03-04,115,Vestuário,Norte,8,114.9,919.2,Telefone
+288,2024-03-06,147,Eletrônicos,Sul,17,237.09,4030.53,Loja Física
+289,2024-01-12,138,Vestuário,Centro-Oeste,7,293.19,2052.33,Online
+290,2024-02-01,192,Eletrônicos,Sul,7,90.21,631.47,Online
+291,2024-04-10,128,Vestuário,Norte,2,117.07,234.14,Online
+292,2024-04-23,101,Alimentos,Norte,4,215.05,860.2,Online
+293,2024-02-06,137,Alimentos,Norte,15,292.13,4381.95,Telefone
+294,2024-03-18,151,Brinquedos,Centro-Oeste,15,75.24,1128.6,Loja Física
+295,2024-03-14,112,Alimentos,Sul,18,100.92,1816.56,Loja Física
+296,2024-02-14,146,Eletrônicos,Norte,15,136.48,2047.2,Online
+297,2024-03-31,138,Eletrônicos,Sul,20,290.19,5803.8,Telefone
+298,2024-01-01,149,Vestuário,Sudeste,5,249.71,1248.55,Loja Física
+299,2024-04-02,150,Vestuário,Norte,3,132.96,398.88,Loja Física
+300,2024-03-06,118,Vestuário,Sul,6,155.34,932.04,Telefone
+301,2024-02-07,165,Vestuário,Centro-Oeste,17,195.39,3321.63,Online
+302,2024-02-29,155,Brinquedos,Centro-Oeste,15,83.87,1258.05,Loja Física
+303,2024-04-17,120,Alimentos,Sul,10,103.47,1034.7,Loja Física
+304,2024-02-19,140,Eletrônicos,Sul,7,139.1,973.7,Loja Física
+305,2024-04-11,166,Vestuário,Centro-Oeste,3,238.63,715.89,Online
+306,2024-04-13,172,Eletrônicos,Sudeste,2,207.83,415.66,Telefone
+307,2024-01-07,169,Vestuário,Centro-Oeste,7,166.59,1166.13,Loja Física
+308,2024-02-19,168,Eletrônicos,Norte,12,93.28,1119.36,Loja Física
+309,2024-02-16,162,Alimentos,Sul,14,197.54,2765.56,Telefone
+310,2024-01-29,155,Brinquedos,Sudeste,14,254.78,3566.92,Online
+311,2024-04-27,105,Brinquedos,Centro-Oeste,3,267.62,802.86,Online
+312,2024-03-03,105,Alimentos,Sul,18,93.03,1674.54,Online
+313,2024-01-06,159,Vestuário,Norte,17,159.5,2711.5,Loja Física
+314,2024-03-11,155,Eletrônicos,Sul,9,20.5,184.5,Online
+315,2024-03-19,168,Brinquedos,Centro-Oeste,17,98.12,1668.04,Loja Física
+316,2024-03-01,113,Vestuário,Sudeste,16,194.63,3114.08,Loja Física
+317,2024-02-24,158,Eletrônicos,Sul,7,118.01,826.07,Online
+318,2024-03-05,160,Vestuário,Sudeste,8,241.16,1929.28,Online
+319,2024-01-18,177,Vestuário,Sul,5,218.08,1090.4,Telefone
+320,2024-03-25,187,Brinquedos,Norte,9,128.52,1156.68,Loja Física
+321,2024-03-15,170,Alimentos,Centro-Oeste,8,295.78,2366.24,Online
+322,2024-03-02,182,Brinquedos,Sudeste,16,167.76,2684.16,Online
+323,2024-03-02,134,Vestuário,Sudeste,9,281.66,2534.94,Telefone
+324,2024-01-14,160,Vestuário,Centro-Oeste,14,59.4,831.6,Loja Física
+325,2024-04-16,188,Alimentos,Centro-Oeste,2,131.2,262.4,Online
+326,2024-03-06,128,Alimentos,Sudeste,14,296.12,4145.68,Telefone
+327,2024-04-19,132,Vestuário,Centro-Oeste,5,236.92,1184.6,Online
+328,2024-01-11,133,Alimentos,Norte,9,274.53,2470.77,Online
+329,2024-03-26,170,Alimentos,Sudeste,17,276.03,4692.51,Telefone
+330,2024-03-17,128,Alimentos,Sudeste,7,141.26,988.82,Online
+331,2024-01-17,162,Eletrônicos,Centro-Oeste,20,117.58,2351.6,Loja Física
+332,2024-02-20,197,Brinquedos,Sul,17,199.18,3386.06,Telefone
+333,2024-01-22,143,Alimentos,Norte,19,231.13,4391.47,Online
+334,2024-01-20,171,Brinquedos,Norte,5,182.73,913.65,Online
+335,2024-04-06,111,Eletrônicos,Sul,7,34.9,244.3,Telefone
+336,2024-01-15,122,Brinquedos,Sudeste,6,100.47,602.82,Telefone
+337,2024-04-16,120,Eletrônicos,Sul,4,37.87,151.48,Loja Física
+338,2024-02-25,132,Brinquedos,Sudeste,14,105.15,1472.1,Online
+339,2024-04-16,121,Alimentos,Centro-Oeste,4,65.07,260.28,Telefone
+340,2024-04-14,189,Brinquedos,Centro-Oeste,7,104.29,730.03,Loja Física
+341,2024-03-16,102,Eletrônicos,Centro-Oeste,11,181.61,1997.71,Telefone
+342,2024-01-13,107,Brinquedos,Sudeste,6,162.93,977.58,Loja Física
+343,2024-02-05,156,Alimentos,Norte,13,158.49,2060.37,Telefone
+344,2024-04-25,101,Brinquedos,Centro-Oeste,9,183.63,1652.67,Online
+345,2024-02-11,143,Brinquedos,Norte,18,83.46,1502.28,Online
+346,2024-02-16,192,Vestuário,Centro-Oeste,18,35.72,642.96,Loja Física
+347,2024-02-23,150,Brinquedos,Sudeste,19,40.46,768.74,Loja Física
+348,2024-01-19,169,Vestuário,Sudeste,17,35.11,596.87,Loja Física
+349,2024-01-17,125,Vestuário,Sudeste,18,220.93,3976.74,Loja Física
+350,2024-01-10,166,Eletrônicos,Centro-Oeste,17,60.77,1033.09,Loja Física
+351,2024-01-22,119,Alimentos,Sul,17,233.0,3961.0,Loja Física
+352,2024-04-18,145,Eletrônicos,Sudeste,5,72.08,360.4,Loja Física
+353,2024-03-21,111,Alimentos,Centro-Oeste,20,218.65,4373.0,Online
+354,2024-02-02,158,Brinquedos,Sul,18,177.39,3193.02,Online
+355,2024-04-08,109,Alimentos,Norte,4,86.12,344.48,Telefone
+356,2024-04-12,197,Eletrônicos,Sul,1,146.04,146.04,Telefone
+357,2024-04-04,162,Brinquedos,Norte,5,115.01,575.05,Loja Física
+358,2024-04-22,155,Eletrônicos,Sul,5,297.4,1487.0,Loja Física
+359,2024-04-21,146,Brinquedos,Sudeste,3,203.83,611.49,Telefone
+360,2024-02-18,188,Eletrônicos,Sul,7,141.68,991.76,Telefone
+361,2024-03-14,160,Eletrônicos,Norte,17,185.27,3149.59,Telefone
+362,2024-01-13,117,Brinquedos,Norte,10,289.66,2896.6,Online
+363,2024-01-29,102,Vestuário,Sul,14,184.66,2585.24,Loja Física
+364,2024-02-18,116,Vestuário,Centro-Oeste,20,67.97,1359.4,Telefone
+365,2024-01-08,141,Alimentos,Norte,18,145.04,2610.72,Online
+366,2024-01-23,196,Vestuário,Norte,10,231.77,2317.7,Loja Física
+367,2024-01-20,143,Eletrônicos,Sudeste,10,100.01,1000.1,Online
+368,2024-01-27,124,Eletrônicos,Sul,8,252.06,2016.48,Loja Física
+369,2024-01-17,170,Eletrônicos,Sul,13,32.9,427.7,Online
+370,2024-03-14,154,Alimentos,Centro-Oeste,8,261.39,2091.12,Online
+371,2024-01-16,155,Brinquedos,Norte,15,28.22,423.3,Loja Física
+372,2024-04-12,116,Eletrônicos,Sudeste,7,109.62,767.34,Online
+373,2024-02-18,171,Vestuário,Sudeste,17,44.76,760.92,Loja Física
+374,2024-02-25,141,Alimentos,Sudeste,9,190.07,1710.63,Loja Física
+375,2024-01-02,196,Vestuário,Sudeste,12,174.15,2089.8,Loja Física
+376,2024-02-16,153,Eletrônicos,Centro-Oeste,11,115.07,1265.77,Telefone
+377,2024-02-06,148,Eletrônicos,Norte,15,180.36,2705.4,Online
+378,2024-01-05,149,Vestuário,Sul,5,288.49,1442.45,Online
+379,2024-03-25,101,Eletrônicos,Sul,16,249.06,3984.96,Loja Física
+380,2024-03-22,144,Alimentos,Norte,6,152.36,914.16,Telefone
+381,2024-01-24,148,Brinquedos,Sul,12,93.94,1127.28,Telefone
+382,2024-04-29,107,Eletrônicos,Centro-Oeste,9,70.3,632.7,Telefone
+383,2024-01-10,140,Alimentos,Sudeste,11,82.63,908.93,Online
+384,2024-03-14,192,Brinquedos,Norte,19,118.92,2259.48,Loja Física
+385,2024-04-28,120,Alimentos,Sul,10,99.7,997.0,Loja Física
+386,2024-01-02,198,Vestuário,Sul,12,268.46,3221.52,Online
+387,2024-04-30,133,Eletrônicos,Norte,8,264.19,2113.52,Online
+388,2024-03-18,191,Alimentos,Sudeste,7,163.77,1146.39,Online
+389,2024-04-14,133,Alimentos,Sul,7,136.97,958.79,Online
+390,2024-04-06,169,Vestuário,Centro-Oeste,1,152.77,152.77,Online
+391,2024-02-06,144,Vestuário,Centro-Oeste,19,271.4,5156.6,Loja Física
+392,2024-02-08,119,Brinquedos,Norte,5,299.3,1496.5,Loja Física
+393,2024-01-09,117,Eletrônicos,Sudeste,17,34.02,578.34,Loja Física
+394,2024-02-28,102,Eletrônicos,Centro-Oeste,8,292.5,2340.0,Telefone
+395,2024-01-28,152,Eletrônicos,Norte,14,272.75,3818.5,Loja Física
+396,2024-04-12,110,Eletrônicos,Sul,7,159.54,1116.78,Telefone
+397,2024-01-20,153,Eletrônicos,Centro-Oeste,12,123.27,1479.24,Online
+398,2024-02-05,155,Brinquedos,Sudeste,16,44.53,712.48,Loja Física
+399,2024-01-24,167,Alimentos,Norte,19,98.22,1866.18,Online
+400,2024-04-13,141,Brinquedos,Sul,8,134.28,1074.24,Telefone
+401,2024-04-12,173,Eletrônicos,Sudeste,10,253.51,2535.1,Telefone
+402,2024-01-18,181,Vestuário,Sul,16,231.73,3707.68,Online
+403,2024-01-11,156,Vestuário,Sul,8,85.48,683.84,Loja Física
+404,2024-04-10,163,Alimentos,Sul,7,78.11,546.77,Telefone
+405,2024-02-06,115,Vestuário,Centro-Oeste,8,94.05,752.4,Telefone
+406,2024-02-03,161,Brinquedos,Sudeste,9,93.79,844.11,Online
+407,2024-04-10,154,Eletrônicos,Sul,5,103.95,519.75,Loja Física
+408,2024-02-02,115,Alimentos,Norte,5,247.6,1238.0,Telefone
+409,2024-04-08,107,Alimentos,Centro-Oeste,4,248.32,993.28,Loja Física
+410,2024-02-01,144,Alimentos,Norte,17,146.57,2491.69,Loja Física
+411,2024-04-19,150,Vestuário,Norte,1,213.36,213.36,Loja Física
+412,2024-01-02,134,Eletrônicos,Sul,17,272.22,4627.74,Loja Física
+413,2024-01-27,100,Vestuário,Centro-Oeste,19,20.39,387.41,Telefone
+414,2024-03-30,109,Brinquedos,Centro-Oeste,6,97.41,584.46,Telefone
+415,2024-02-23,111,Brinquedos,Sudeste,18,227.62,4097.16,Loja Física
+416,2024-01-24,143,Vestuário,Sul,9,102.4,921.6,Online
+417,2024-04-19,121,Eletrônicos,Centro-Oeste,3,102.51,307.53,Loja Física
+418,2024-01-04,132,Eletrônicos,Norte,13,79.21,1029.73,Telefone
+419,2024-02-04,139,Brinquedos,Norte,19,71.9,1366.1,Telefone
+420,2024-03-28,178,Brinquedos,Centro-Oeste,12,50.06,600.72,Loja Física
+421,2024-02-07,158,Vestuário,Norte,8,86.75,694.0,Telefone
+422,2024-03-02,169,Eletrônicos,Norte,11,268.23,2950.53,Loja Física
+423,2024-01-30,144,Alimentos,Sudeste,12,82.86,994.32,Telefone
+424,2024-04-23,186,Alimentos,Norte,8,38.24,305.92,Online
+425,2024-03-05,179,Eletrônicos,Sudeste,20,197.21,3944.2,Telefone
+426,2024-02-19,174,Alimentos,Norte,5,221.76,1108.8,Telefone
+427,2024-02-29,194,Brinquedos,Centro-Oeste,9,176.04,1584.36,Telefone
+428,2024-01-23,148,Vestuário,Norte,11,146.25,1608.75,Loja Física
+429,2024-04-18,150,Alimentos,Norte,9,138.82,1249.38,Telefone
+430,2024-02-05,172,Brinquedos,Centro-Oeste,15,212.57,3188.55,Loja Física
+431,2024-04-15,149,Eletrônicos,Norte,10,266.48,2664.8,Loja Física
+432,2024-02-07,154,Alimentos,Centro-Oeste,15,192.75,2891.25,Loja Física
+433,2024-03-25,117,Alimentos,Centro-Oeste,19,232.82,4423.58,Online
+434,2024-04-04,181,Eletrônicos,Sudeste,9,63.31,569.79,Loja Física
+435,2024-03-07,141,Vestuário,Sudeste,8,66.65,533.2,Telefone
+436,2024-02-07,121,Eletrônicos,Sul,16,223.24,3571.84,Telefone
+437,2024-01-12,143,Eletrônicos,Sul,8,173.64,1389.12,Telefone
+438,2024-03-28,147,Brinquedos,Sudeste,6,222.29,1333.74,Loja Física
+439,2024-03-23,135,Eletrônicos,Norte,14,95.29,1334.06,Online
+440,2024-03-01,117,Alimentos,Sudeste,12,277.69,3332.28,Loja Física
+441,2024-01-21,131,Alimentos,Norte,13,31.5,409.5,Online
+442,2024-04-07,141,Brinquedos,Norte,4,97.34,389.36,Loja Física
+443,2024-04-20,155,Vestuário,Centro-Oeste,3,270.68,812.04,Loja Física
+444,2024-03-05,109,Eletrônicos,Centro-Oeste,8,189.24,1513.92,Loja Física
+445,2024-03-01,150,Alimentos,Norte,7,231.33,1619.31,Online
+446,2024-02-20,122,Brinquedos,Sudeste,10,212.34,2123.4,Loja Física
+447,2024-04-07,136,Brinquedos,Norte,7,76.93,538.51,Telefone
+448,2024-03-25,111,Vestuário,Sul,20,123.15,2463.0,Telefone
+449,2024-04-26,120,Eletrônicos,Norte,6,240.29,1441.74,Online
+450,2024-01-09,118,Alimentos,Sul,14,55.96,783.44,Loja Física
+451,2024-01-31,108,Brinquedos,Norte,20,285.05,5701.0,Online
+452,2024-01-20,189,Eletrônicos,Norte,14,272.66,3817.24,Telefone
+453,2024-04-28,192,Brinquedos,Sudeste,1,123.26,123.26,Loja Física
+454,2024-02-02,185,Eletrônicos,Norte,18,208.34,3750.12,Loja Física
+455,2024-04-27,108,Eletrônicos,Centro-Oeste,3,275.14,825.42,Telefone
+456,2024-01-10,155,Brinquedos,Sudeste,14,176.15,2466.1,Loja Física
+457,2024-04-17,177,Brinquedos,Centro-Oeste,4,211.85,847.4,Online
+458,2024-02-22,191,Alimentos,Sudeste,14,56.07,784.98,Telefone
+459,2024-04-14,115,Alimentos,Sudeste,9,171.05,1539.45,Telefone
+460,2024-03-27,161,Alimentos,Norte,11,162.3,1785.3,Telefone
+461,2024-01-19,187,Alimentos,Sudeste,5,22.89,114.45,Telefone
+462,2024-03-22,124,Vestuário,Centro-Oeste,18,275.81,4964.58,Loja Física
+463,2024-01-07,162,Alimentos,Norte,9,135.81,1222.29,Loja Física
+464,2024-04-16,112,Eletrônicos,Sudeste,3,97.51,292.53,Loja Física
+465,2024-01-11,163,Brinquedos,Norte,6,152.93,917.58,Online
+466,2024-02-04,106,Eletrônicos,Norte,13,117.22,1523.86,Loja Física
+467,2024-02-07,193,Alimentos,Sudeste,20,55.94,1118.8,Loja Física
+468,2024-04-07,159,Alimentos,Sudeste,6,233.2,1399.2,Online
+469,2024-02-24,161,Alimentos,Centro-Oeste,19,281.92,5356.48,Loja Física
+470,2024-01-29,101,Brinquedos,Centro-Oeste,5,34.62,173.1,Loja Física
+471,2024-04-10,117,Brinquedos,Sul,8,165.43,1323.44,Online
+472,2024-02-20,133,Brinquedos,Centro-Oeste,15,96.79,1451.85,Online
+473,2024-02-01,105,Alimentos,Norte,13,259.65,3375.45,Telefone
+474,2024-04-10,166,Vestuário,Sul,3,239.12,717.36,Telefone
+475,2024-04-26,175,Alimentos,Sudeste,1,136.79,136.79,Online
+476,2024-01-23,108,Eletrônicos,Sul,14,262.8,3679.2,Loja Física
+477,2024-04-11,125,Brinquedos,Sul,3,42.49,127.47,Loja Física
+478,2024-01-06,177,Eletrônicos,Norte,8,44.99,359.92,Loja Física
+479,2024-01-10,197,Vestuário,Sudeste,12,40.73,488.76,Online
+480,2024-01-12,135,Brinquedos,Norte,20,250.66,5013.2,Loja Física
+481,2024-01-14,180,Alimentos,Centro-Oeste,6,185.38,1112.28,Online
+482,2024-03-26,144,Eletrônicos,Norte,19,297.22,5647.18,Loja Física
+483,2024-03-12,105,Brinquedos,Sudeste,7,208.16,1457.12,Telefone
+484,2024-04-20,152,Vestuário,Centro-Oeste,3,159.84,479.52,Telefone
+485,2024-04-03,109,Alimentos,Sudeste,7,191.87,1343.09,Online
+486,2024-04-28,130,Eletrônicos,Norte,8,155.14,1241.12,Online
+487,2024-02-28,167,Vestuário,Sul,13,85.27,1108.51,Telefone
+488,2024-01-09,106,Vestuário,Sul,15,95.73,1435.95,Online
+489,2024-01-08,193,Vestuário,Norte,20,278.69,5573.8,Online
+490,2024-03-02,181,Alimentos,Sudeste,12,166.88,2002.56,Telefone
+491,2024-03-16,196,Eletrônicos,Sudeste,8,188.44,1507.52,Telefone
+492,2024-01-28,180,Alimentos,Norte,12,32.84,394.08,Online
+493,2024-01-26,197,Vestuário,Sudeste,5,44.21,221.05,Loja Física
+494,2024-02-06,108,Alimentos,Sudeste,6,50.13,300.78,Online
+495,2024-01-29,146,Alimentos,Sudeste,9,222.07,1998.63,Online
+496,2024-02-26,156,Alimentos,Sul,18,208.38,3750.84,Telefone
+497,2024-04-15,145,Eletrônicos,Centro-Oeste,2,210.58,421.16,Loja Física
+498,2024-03-14,130,Alimentos,Sul,9,113.94,1025.46,Telefone
+499,2024-01-31,157,Alimentos,Sul,12,46.41,556.92,Telefone
+500,2024-02-23,189,Alimentos,Norte,9,88.52,796.68,Online
